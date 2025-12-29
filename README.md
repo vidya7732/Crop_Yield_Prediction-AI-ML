@@ -1,23 +1,52 @@
-# 🌾 Crop Yield Prediction System
+# 🌾 Smart Crop Yield Prediction System  
+### AI + Machine Learning Powered Precision Farming 🌱
 
-AI-powered machine learning application to predict crop yield based on
-soil, weather, and farming practices.
+---
 
-## 🚀 Features
-- Farmer-specific yield prediction
-- Soil & weather parameter analysis
-- Crop & fertilizer based modeling
-- Deployed on Hugging Face Spaces using Streamlit
+## 📌 Project Description
 
-## 🧠 Model
-- Machine Learning Regression Model
-- Features include soil health, rainfall, temperature, fertilizer efficiency
+The **Smart Crop Yield Prediction System** is an AI-driven web application built using **Machine Learning and Streamlit**.  
+It predicts crop yield based on soil, climate, and farming parameters and visually compares **Predicted Yield vs Ideal Yield using graphs**.
 
-## 🛠 Tech Stack
-- Python
-- Streamlit
-- Scikit-learn
-- NumPy
+This system helps farmers and agricultural stakeholders make **data-driven decisions** to improve productivity.
 
-## 🌍 Live Demo
-Hosted on Hugging Face Spaces
+---
+
+## 🎯 Key Objectives
+
+- Predict crop yield accurately using ML
+- Visualize yield comparison using bar charts
+- Provide confidence score for predictions
+- Suggest smart improvements for better yield
+- Build an easy-to-use, interactive UI
+
+---
+
+## 🧠 Features
+
+✅ Crop Yield Prediction (Tonnes)  
+✅ Confidence Score (%)  
+✅ 📊 Yield Comparison Graph (Predicted vs Ideal)  
+✅ 🟢 Possible Yield Improvement Indicator  
+✅ 🌱 Smart Improvement Suggestions  
+✅ Fine-grained input control (0.10 step values)  
+✅ Farmer-specific input support  
+
+---
+
+## 📊 Graphical Visualization
+
+The system displays an **interactive bar chart** comparing:
+
+- **Predicted Yield**
+- **Ideal Yield**
+
+This visual comparison helps users clearly understand:
+- Current performance
+- Yield gap
+- Improvement potential
+
+---
+
+## 🏗️ System Architecture
+
